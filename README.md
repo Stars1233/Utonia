@@ -197,7 +197,7 @@ This repo provide two ways of installation: **standalone mode** and **package mo
 ## Citation
 If you find _Utonia_ useful to your research, please consider citing our works as an acknowledgment. (੭ˊ꒳​ˋ)੭✧
 ```bib
-@misc{zhang2026utoniaencoderpointclouds,
+@misc{zhang2026utonia,
       title={Utonia: Toward One Encoder for All Point Clouds}, 
       author={Yujia Zhang and Xiaoyang Wu and Yunhan Yang and Xianzhe Fan and Han Li and Yuechen Zhang and Zehao Huang and Naiyan Wang and Hengshuang Zhao},
       year={2026},
